@@ -1,0 +1,6 @@
+To build the project:
+
+cmake -Bbuild && cd build && make
+
+To run the project:
+./drinks
